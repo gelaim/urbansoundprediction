@@ -1,4 +1,4 @@
-# urbansoundprediction
+# Urban Sound Prediction using FastAPI
 
 - Goal: test FastAPI for Machine Learning
 - Dataset: Urban Sound 8K
